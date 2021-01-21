@@ -13,4 +13,4 @@ document.write( output );
 setTimeout(function(){
 window.location.href =
 'https://amatsu1918.github.io/assessment/a.html';
-}, 20*1000);
+}, 5*1000);
