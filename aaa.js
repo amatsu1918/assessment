@@ -12,5 +12,5 @@ document.write( output );
 
 setTimeout(function(){
 window.location.href =
-'https://soichiro-yoshimura.github.io/assessment/a.html';
+'https://amatsu1918.github.io/assessment/a.html';
 }, 20*1000);
