@@ -12,5 +12,5 @@ document.write( output );
 
 setTimeout(function(){
 window.location.href =
-'file:///C:/Users/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC/workspace/js-grammar/js-calc.html';
+'https://soichiro-yoshimura.github.io/assessment/a.html';
 }, 20*1000);
